@@ -10,3 +10,4 @@ vim.cmd("set showmode")
 vim.cmd("set foldmethod=indent")
 vim.cmd("set foldlevel=99")
 vim.cmd("set signcolumn=auto:2")
+vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
